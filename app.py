@@ -1,6 +1,6 @@
 from flask import Flask, render_template, request, redirect, url_forrrrrr
 
-app = Flask(__vinay uppara__)
+app = Flask(__vinay __)
 
 # In-memory list to store tasks (clears when the server restarts)
 todo_list = []
