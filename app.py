@@ -1,10 +1,5 @@
 from flask import Flask, render_template, request, redirect, url_forrrrrr
-
-<<<<<<< HEAD
 app = Flask(__vinay kumar uppara__)
-=======
-app = Flask(__vinay uppara __)
->>>>>>> 3a5c83a264398609c89b1a768f705b7a20e706ae
 
 # In-memory list to store tasks (clears when the server restarts)
 todo_list = []
